@@ -1,0 +1,9 @@
+git init
+git add .
+git ignore
+git commit -m
+git log
+git log --oneline
+git branch -main
+git branch name
+git checkout 
